@@ -83,10 +83,10 @@ Found a bug or have a feature request? [Open an issue](https://github.com/[your-
 
 ### Contact
 
-- GitHub Issues: [JSONSpruce Issues](https://github.com/[your-username]/JSONSpruce/issues)
-- Email: [your-email@example.com](mailto:your-email@example.com)
+- GitHub Issues: [JSONSpruce Issues](https://github.com/btkepros/JSONSpruce/issues)
+- Email: [btkepros@gmail.com](mailto:btkepros@gmail.com)
 
-## Development 🛠
+## Development 
 
 JSONSpruce is built with:
 - Swift for the iOS app
@@ -96,7 +96,7 @@ JSONSpruce is built with:
 ### Building from Source
 
 1. Clone this repository
-2. Open `JSONify.xcodeproj` in Xcode
+2. Open `JSONSpruce.xcodeproj` in Xcode
 3. Build and run (⌘R)
 
 ### Contributing
@@ -110,6 +110,4 @@ Contributions are welcome! Please:
 
 Copyright © 2025 Brandon Kepros. All rights reserved.
 
----
 
-Made with ❤️ for the developer community
